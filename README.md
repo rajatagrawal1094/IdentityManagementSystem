@@ -1,6 +1,6 @@
 # Introduction to Identity Based Managed System
 
-[HashiCorp Vault Learning Series Main Menu](https://github.com/rajatagrawal1094/RedHatSatellite)
+[HashiCorp Vault Learning Series Main Menu](https://github.com/rajatagrawal1094/HashiCorpVault)
 
 ## Table of Contents
 - [Introduction](#introduction)
