@@ -6,8 +6,9 @@
 - [Introduction](#introduction)
 - [The Problem with Traditional Secrets Management](#the-problem-with-traditional-secrets-management)
 - [Introduction to Identity-Based Management Systems](#introduction-to-identity-based-management-systems)
-- [Bridging the Gap: Leaders and Engineers Together](#bridging-the-gap:-leaders-and-engineers)
+- [Bridging the Gap: Leaders and Engineers Together](#bridging-the-gap:-leaders-and-engineers-together)
 - [Popular Identity-Based Secrets Management Tools](#popular-identity-based-secrets-management-tools)
+- [How to Choose the Right Tool for Your Organization](#how-to-choose-the-right-tool-for-your-organization)
 - [Summary](#summary)
 
 ## Introduction
