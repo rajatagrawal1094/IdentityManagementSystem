@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [The Problem with Traditional Secrets Management](#the-problem-with-traditional-secrets-management)
-- [Introduction to Identity-Based Management Systems](#introduction-to-identity-based-management-systems)
+- [Introduction to Identity Based Management Systems](#introduction-to-identity-based-management-systems)
 - [Bridging the Gap for Business Leaders and DevOps Engineers](#bridging-the-gap-for-business-leaders-and-devops-engineers)
 - [Popular Identity Based Secrets Management Tools](#popular-identity-based-secrets-management-tools)
 - [How to Choose the Right Tool for Your Organization](#how-to-choose-the-right-tool-for-your-organization)
@@ -36,7 +36,7 @@ Some of the challenges we face with traditional approaches include:
 - **Limited access control**: If someone knows a secret, they can usually access it anytime—regardless of their role or context.
 - **Inconsistent practices**: Each team may handle secrets differently, leading to gaps, duplication, and vulnerabilities.
 
-## Introduction to Identity-Based Managed Systems
+## Introduction to Identity Based Managed Systems
 
 To fix this, more and more teams are adopting identity-based managed systems. These platforms give us centralized, secure, and policy-driven control over secrets.
 
